@@ -1,3 +1,10 @@
 # git-workshop-2020
 
-rupesh raj
+List of participants
+- Sumit
+- saurabh dhotre
+- Rakshita Jain
+- Shubham shandilya
+- raj kothari
+- Nitesh
+- rupesh raj
