@@ -1,3 +1,13 @@
 # git-workshop-2020
 
-Neeraj patil
+List of participants
+- Sumit
+- saurabh dhotre
+- Rakshita Jain
+- Shubham shandilya
+- raj kothari
+- Nitesh
+- rupesh raj
+- ripunjay kumar
+- vikash kumar
+- Neeraj patil
