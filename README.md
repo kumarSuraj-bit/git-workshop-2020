@@ -1,8 +1,7 @@
 # git-workshop-2020
 
-Shubham shandilya
-this is branch change
-this is second branch change
-this is third
-
-
+List of participants
+- Sumit
+- saurabh dhotre
+- Rakshita Jain
+- Shubham shandilya
