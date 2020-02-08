@@ -5,3 +5,4 @@ List of participants
 - saurabh dhotre
 - Rakshita Jain
 - Shubham shandilya
+- raj kothari
