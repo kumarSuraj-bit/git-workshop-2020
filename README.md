@@ -12,3 +12,4 @@ List of participants
 - vikash kumar
 - Neeraj patil
 - Garima Singh
+- aditi sharma
