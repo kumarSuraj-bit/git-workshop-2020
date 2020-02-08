@@ -1,3 +1,9 @@
 # git-workshop-2020
 
-Rakshita 
+List of participants
+- Sumit
+- saurabh dhotre
+- Rakshita Jain
+- Shubham shandilya
+- raj kothari
+- Nitesh
