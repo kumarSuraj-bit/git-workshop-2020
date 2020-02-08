@@ -17,3 +17,4 @@ List of participants
 - swapnil tripathi
 - utkarsh kumar
 - Md Zaid Alam
+- pratyush
