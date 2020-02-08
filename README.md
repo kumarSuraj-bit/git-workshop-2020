@@ -15,3 +15,4 @@ List of participants
 - aditi sharma
 - Shreyashi Sahay
 - swapnil tripathi
+- utkarsh kumar
